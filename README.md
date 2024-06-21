@@ -1,6 +1,6 @@
 This is a course from SUSTech CS205, C & C++ Program Design.
 
-I only get B in this course. It was really difficult to do those reports. But if you could try your best, then I think it would be a good optional course.
+I only get B in this course. It was really difficult to do those reports for me because I had never do something alike before. But if you could try your best, then I think it would be a one of the best optional courses in SUSTech.
 
 
 
