@@ -1,14 +1,14 @@
-This is a course from SUSTech CS205, C & C++ Program Design.
+This is a course from `SUSTech` `CS205`, `C & C++ Program Design`.
 
-I only get B in this course. To tell the truth, Prof. Yu was not generous.
+I only get `B` in this course. To tell the truth, Prof. Yu was not generous.
 
-It was really difficult to do those reports for me because I had never do something alike before. But if you could try your best, then I strongly recommend this course because it would be one of the best optional courses in SUSTech.
+It was really difficult to do those reports for me because I had never do something alike before. But if you could try your best, then I strongly recommend this course because it would be one of the best optional courses in `SUSTech`.
 
 
 
-* Semester: 2024, Spring
+* Semester: `2024, Spring`
 
-* Instructor: Shiqi Yu
+* Instructor: `Shiqi Yu`
 
     
 
